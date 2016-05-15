@@ -1,0 +1,17 @@
+640c46,127.0.0.1,GET,http://localhost:8000/,1456068152,,200
+cdabf4,127.0.0.1,GET,http://localhost:8000/cliente/create,1456069577,1dda48,200
+1dda48,127.0.0.1,GET,http://localhost:8000/cliente/create,1456069577,,404
+f32012,127.0.0.1,GET,http://localhost:8000/create,1456069586,d151d9,200
+d151d9,127.0.0.1,GET,http://localhost:8000/create,1456069586,,404
+07d879,127.0.0.1,GET,http://localhost:8000/,1456069600,,200
+472baf,127.0.0.1,GET,http://localhost:8000/create,1456069609,bfeaa7,200
+bfeaa7,127.0.0.1,GET,http://localhost:8000/create,1456069609,,404
+e314d6,127.0.0.1,GET,http://localhost:8000/,1456069637,d2e906,200
+d2e906,127.0.0.1,GET,http://localhost:8000/,1456069637,,500
+43fd81,127.0.0.1,GET,http://localhost:8000/,1456069728,730ddf,200
+730ddf,127.0.0.1,GET,http://localhost:8000/,1456069728,,500
+d9e8e1,127.0.0.1,GET,http://localhost:8000/,1456069758,4da4ea,200
+4da4ea,127.0.0.1,GET,http://localhost:8000/,1456069758,,500
+42bf13,127.0.0.1,GET,http://localhost:8000/,1456069801,21bee1,200
+21bee1,127.0.0.1,GET,http://localhost:8000/,1456069801,,500
+313b5a,127.0.0.1,GET,http://localhost:8000/,1456069813,,200
